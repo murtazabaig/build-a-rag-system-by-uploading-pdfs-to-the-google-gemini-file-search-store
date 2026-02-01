@@ -1,3 +1,7 @@
+![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
+![license](https://img.shields.io/badge/license-MIT-green)
+![status](https://img.shields.io/badge/status-ready-brightgreen)
+
 # Build a RAG system by uploading PDFs to the Google Gemini File Search Store
 
 Advanced n8n automation for Build a RAG system by uploading PDFs to the Google Gemini File Search Store.
